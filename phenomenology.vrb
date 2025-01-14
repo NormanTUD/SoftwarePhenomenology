@@ -1,0 +1,14 @@
+\begin{lstlisting}[language=C]
+if(a == 5) { // jump if a == 5
+	goto A_EQUAL_FIVE;
+} else { // jump if a != 5
+	goto A_NOT_EQUAL_FIVE;
+}
+return;
+A_EQUAL_FIVE:
+printf("a==5");
+return;
+A_NOT_EQUAL_FIVE:
+printf("a!=5");
+return;
+\end{lstlisting}
