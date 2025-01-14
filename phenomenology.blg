@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: phenomenology.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: phenomenology-blx.bib
+Database file #2: ../literatur.bib
+Biblatex version: 3.18
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 21 entries,
+            6399 wiz_defined-function locations,
+            1294 strings with 12292 characters,
+and the built_in function-call counts, 95111 in all, are:
+= -- 6164
+> -- 2016
+< -- 540
++ -- 2135
+- -- 830
+* -- 6227
+:= -- 9334
+add.period$ -- 0
+call.type$ -- 21
+change.case$ -- 202
+chr.to.int$ -- 80
+cite$ -- 40
+duplicate$ -- 10098
+empty$ -- 9284
+format.name$ -- 970
+if$ -- 19961
+int.to.chr$ -- 0
+int.to.str$ -- 51
+missing$ -- 0
+newline$ -- 479
+num.names$ -- 879
+pop$ -- 6757
+preamble$ -- 1
+purify$ -- 242
+quote$ -- 0
+skip$ -- 3387
+stack$ -- 0
+substring$ -- 10221
+swap$ -- 2340
+text.length$ -- 524
+text.prefix$ -- 20
+top$ -- 1
+type$ -- 702
+warning$ -- 0
+while$ -- 1146
+width$ -- 0
+write$ -- 459
