@@ -1,0 +1,489 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{glitch}{online}{}
+    \name{author}{1}{}{%
+      {{hash=AFSF}{%
+         family={Archive},
+         familyi={A\bibinitperiod},
+         given={Free Stock\bibnamedelima Footage},
+         giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AFSF1}
+    \strng{fullhash}{AFSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Defect Screen - Glitch Effect Footage Free}
+    \verb{url}
+    \verb https://www.youtube.com/watch?v=Qr97yriMLBo
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{wikibsod}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CW}{%
+         family={Commons},
+         familyi={C\bibinitperiod},
+         given={Wikimedia},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CW1}
+    \strng{fullhash}{CW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{[Online; accessed 20-March-2021]}
+    \field{title}{File:BSOD Windows 8.png --- Wikimedia Commons{,} the free
+  media repository}
+    \verb{url}
+    \verb https://commons.wikimedia.org/w/index.php?title=File:BSOD_Windows_8.p
+    \verb ng&oldid=491631615
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{schmitzbildwiki}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CW}{%
+         family={Commons},
+         familyi={C\bibinitperiod},
+         given={Wikimedia},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CW1}
+    \strng{fullhash}{CW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{[Online; accessed 20-March-2021]}
+    \field{title}{File:Hermann Schmitz Foto.jpg --- Wikimedia Commons{,} the
+  free media repository}
+    \verb{url}
+    \verb https://commons.wikimedia.org/w/index.php?title=File:Hermann_Schmitz_
+    \verb Foto.jpg&oldid=461671795
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{wikieuphoria}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CW}{%
+         family={Commons},
+         familyi={C\bibinitperiod},
+         given={Wikimedia},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CW1}
+    \strng{fullhash}{CW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{[Online; accessed 21-März-2021]}
+    \field{title}{File:Jumping Giulia Salar de Uyuni Bolivia Luca Galuzzi
+  2006.jpg --- Wikimedia Commons{,}}
+    \verb{url}
+    \verb https://commons.wikimedia.org/w/index.php?title=File:Jumping_Giulia_S
+    \verb alar_de_Uyuni_Bolivia_Luca_Galuzzi_2006.jpg&oldid=530222433
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{wikikernel}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CW}{%
+         family={Commons},
+         familyi={C\bibinitperiod},
+         given={Wikimedia},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CW1}
+    \strng{fullhash}{CW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{[Online; accessed 24-March-2021]}
+    \field{title}{File:Kernel Layout.svg --- Wikimedia Commons{,} the free
+  media repository}
+    \verb{url}
+    \verb \url{https://commons.wikimedia.org/w/index.php?title=File:Kernel_Layo
+    \verb ut.svg&oldid=538228326}
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{wikirtfm}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CW}{%
+         family={Commons},
+         familyi={C\bibinitperiod},
+         given={Wikimedia},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CW1}
+    \strng{fullhash}{CW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{[Online; accessed 21-March-2021]}
+    \field{title}{File:RTFM (12034282963).jpg --- Wikimedia Commons{,} the free
+  media repository}
+    \verb{url}
+    \verb https://commons.wikimedia.org/w/index.php?title=File:RTFM_(1203428296
+    \verb 3).jpg&oldid=477939492
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{wikivonneumann}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CW}{%
+         family={Commons},
+         familyi={C\bibinitperiod},
+         given={Wikimedia},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CW1}
+    \strng{fullhash}{CW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{[Online; accessed 24-March-2021]}
+    \field{title}{File:Von Neumann Architecture.svg --- Wikimedia Commons{,}
+  the free media repository}
+    \verb{url}
+    \verb \url{https://commons.wikimedia.org/w/index.php?title=File:Von_Neumann
+    \verb _Architecture.svg&oldid=481743644}
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{speechrecognitionimage}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CA}{%
+         family={Corporation},
+         familyi={C\bibinitperiod},
+         given={Athreon},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CA1}
+    \strng{fullhash}{CA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{The Benefits and Challenges of Speech Recognition}
+    \verb{url}
+    \verb https://www.athreon.com/benefits-and-challenges-of-speech-recognition
+    \verb /
+    \endverb
+  \endentry
+
+  \entry{wikirelais}{online}{}
+    \name{author}{1}{}{%
+      {{hash=ESA}{%
+         family={Eugster},
+         familyi={E\bibinitperiod},
+         given={Simon\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ESA1}
+    \strng{fullhash}{ESA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{note}{[Online; accessed 20-March-2021]}
+    \field{title}{File:Relais-Finder-12A.webm --- Wikimedia Commons{,} the free
+  media repository}
+    \verb{url}
+    \verb https://commons.wikimedia.org/w/index.php?title=File:Relais-Finder-12
+    \verb A.webm&oldid=440594179
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{creepyimage}{online}{}
+    \name{author}{1}{}{%
+      {{hash=HK}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Kristine},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HK1}
+    \strng{fullhash}{HK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{9 Creepiest Places You Should Probably Never Visit}
+    \verb{url}
+    \verb https://www.architecturaldigest.com/story/creepiest-places-you-should
+    \verb -probably-never-visit
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{hardy1967mathematician}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HG}{%
+         family={Hardy},
+         familyi={H\bibinitperiod},
+         given={G.H.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{HG1}
+    \strng{fullhash}{HG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{isbn}{9780521095778}
+    \field{title}{A Mathematician's Apology}
+    \verb{url}
+    \verb https://books.google.de/books?id=3R04AAAAMAAJ
+    \endverb
+    \field{year}{1967}
+  \endentry
+
+  \entry{thenamiracleoccurs}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HS}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={Sidney},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HS1}
+    \strng{fullhash}{HS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{isbn}{0-913232-39-4}
+    \field{title}{What's so Funny about Science?}
+    \field{year}{1970}
+  \endentry
+
+  \entry{hegelabstrakt}{online}{}
+    \name{author}{1}{}{%
+      {{hash=HGWF}{%
+         family={Hegel},
+         familyi={H\bibinitperiod},
+         given={Georg Wilhelm\bibnamedelima Friedrich},
+         giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HGWF1}
+    \strng{fullhash}{HGWF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Wer denkt abstrakt}
+    \verb{url}
+    \verb http://www.zeno.org/Philosophie/M/Hegel,+Georg+Wilhelm+Friedrich/Wer+
+    \verb denkt+abstrakt
+    \endverb
+    \field{year}{1807}
+  \endentry
+
+  \entry{multiplier}{online}{}
+    \name{author}{1}{}{%
+      {{hash=HU}{%
+         family={Hussaini},
+         familyi={H\bibinitperiod},
+         given={Umair},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HU1}
+    \strng{fullhash}{HU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Multiplier – Designing of 2-bit and 3-bit binary multiplier
+  circuits}
+    \verb{url}
+    \verb https://technobyte.org/multiplier-2-bit-3-bit-digital/
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{office12}{online}{}
+    \name{author}{1}{}{%
+      {{hash=HF}{%
+         family={Hüber},
+         familyi={H\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HF1}
+    \strng{fullhash}{HF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Office 12 mit völlig neuer Benutzeroberfläche}
+    \verb{url}
+    \verb https://www.computerbase.de/2005-09/office-12-mit-voellig-neuer-benut
+    \verb zeroberflaeche/
+    \endverb
+    \field{year}{2005}
+  \endentry
+
+  \entry{halfadderfulladder}{online}{}
+    \name{author}{1}{}{%
+      {{hash=KP}{%
+         family={Kerampran},
+         familyi={K\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KP1}
+    \strng{fullhash}{KP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Binary Additions using Logic Gates}
+    \verb{url}
+    \verb https://www.101computing.net/binary-additions-using-logic-gates/
+    \endverb
+  \endentry
+
+  \entry{integratorbild}{online}{}
+    \name{author}{1}{}{%
+      {{hash=PK}{%
+         family={Patowary},
+         familyi={P\bibinitperiod},
+         given={Kaushik},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PK1}
+    \strng{fullhash}{PK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Vladimir Lukyanov’s Water Computer}
+    \verb{url}
+    \verb https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-comput
+    \verb er.html
+    \endverb
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{forkcanfail}{online}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={Rachelbytheway},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{fork() can fail: this is important}
+    \verb{url}
+    \verb https://rachelbythebay.com/w/2014/08/19/fork/
+    \endverb
+  \endentry
+
+  \entry{heideggerbild}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SFR}{%
+         family={Spitz},
+         familyi={S\bibinitperiod},
+         given={Flicker\bibnamedelima René},
+         giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SFR1}
+    \strng{fullhash}{SFR1}
+    \field{labelnamesource}{author}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{url}
+    \verb https://www.prospectmagazine.co.uk/arts-and-books/in-defence-of-heide
+    \verb gger
+    \endverb
+    \field{year}{1959}
+    \field{urlday}{25}
+    \field{urlmonth}{10}
+    \field{urlyear}{2017}
+  \endentry
+
+  \entry{hegeldeutschlandfunk}{online}{}
+    \name{author}{1}{}{%
+      {{hash=VC}{%
+         family={Vormweg},
+         familyi={V\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VC1}
+    \strng{fullhash}{VC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Der Philosoph Georg Wilhelm Friedrich Hegel}
+    \verb{url}
+    \verb https://www.deutschlandfunk.de/vor-250-jahren-geboren-der-philosoph-g
+    \verb eorg-wilhelm-100.html
+    \endverb
+    \field{year}{2020}
+  \endentry
+\enddatalist
+\endinput
