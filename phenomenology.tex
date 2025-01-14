@@ -1,0 +1,110 @@
+\documentclass[aspectratio=169]{beamer}
+
+% These are only some keywords for the autocompletion-feature of many editors: section, subsection, subsubsection, paragraph,
+% includegraphics, width, linewidth, linespread, figure, wrapfigure, caption, label, footnote, equation, input, cite, citetitle,
+% citeauthor, footfullcite, tableofcontents, printbibliography, clearpage, frq, frqq, flq, flqq, grq, grqq, glq, glqq, textit,
+% texttt, mathrm, dots, pmatrix, centering, phantom, minipage, ensuremath, hfill, vfill, 
+
+\usetheme{Dresden}
+\usecolortheme{dolphin}
+\setbeamertemplate{caption}[numbered]
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+\usepackage{soulutf8}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{verbatim}
+\usepackage[english]{babel}
+\usepackage{multimedia}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\usepackage{tikz}
+\usepackage{listings}
+
+% Disable header points
+\makeatletter
+\def\beamer@writeslidentry{\clearpage\beamer@notesactions}
+\makeatother
+
+\newcommand{\fullpageimage}[3]{{
+    \setbeamertemplate{navigation symbols}{}
+    \setbeamercolor{background canvas}{bg=#1}
+    \begin{frame}<article:0>[plain]
+        \begin{tikzpicture}[remember picture,overlay]
+            \node[at=(current page.center)] {
+                \includegraphics[keepaspectratio,
+                                 width=\paperwidth,
+                                 height=1.3\paperheight]{#2}
+            };
+        \end{tikzpicture}
+	\nocite{#3}
+     \end{frame}
+}}
+
+
+
+\definecolor{bsodcolor}{RGB}{17,114,169}
+
+\usepackage{pgfpages}
+
+\setbeameroption{show notes}
+\setbeameroption{show notes on second screen=right}
+
+\setbeamertemplate{navigation symbols}{}
+
+\emergencystretch2em
+
+\usepackage[
+	citestyle=authortitle-ibid,
+	isbn=true,
+	url=true,
+	backref=true,
+	backrefstyle=none,
+	pagetracker=true,
+	maxbibnames=50,
+	defernumbers=true,
+	maxcitenames=10,
+	backend=bibtex,
+	urldate=comp,
+	dateabbrev=false,
+	sorting=nty
+]{biblatex}
+\bibliography{literatur.bib}
+
+\begin{document}
+\author{Norman Koch}
+\title{The philosophy of good software}
+\subtitle{On the phenomenology of software and software development}
+
+\maketitle
+
+\begin{frame}
+	\frametitle{Outline}
+	\begin{minipage}{\textwidth}
+		\tableofcontents
+	\end{minipage}
+\end{frame}
+
+\input{intro}
+\input{cpudesign}
+\input{phenomenologydetail}
+%\input{google}
+\input{howcanyou}
+
+\printbibliography[title={Sources}]
+
+\end{document}
+
+% Hallo Norman, ich habe ein paar Anmerkungen wegen des Beta-Tests: Bei den Relais-Sachen fehlt irgendwie der Übergang zur Software. Du bist da auf der Ebene von Schaltungen und machst dann einen weiten Sprung zu Funktionen und Software. Da könntest du noch einen Umweg über 1-Bit-Halb-/Volladdierer und dann anhand von schriftlicher Addition mit Übertrag die Erweiterung zu n-bit-Addierern machen. Wenn du dann noch einen Funktionsblock daraus machst und sagst, dass es das auch für Subtraktion usw. gibt, kannst du sogar mit einem "Auswahlsignal" die Funktionsblöcke zusammenschalten und das Ergebnis "steuern". Da bist du dann fast bei einer ALU, die du mit "Befehlen" (den Auswahlsignalen) steuern kannst.
+
+% Weiterhin kannst du bei deinen Wahrheitstabellen auch ein NAND oder NOR bauen. Das sind Elemente, mit denen du alle anderen Funktionen (AND, OR, NOT, ...) durch geeignete Verschaltung auch herstellen kannst. Darüber hinaus kannst du damit auch Flip-Flops erzeugen, die einen Zustand speichern.
+
+% Außerdem könntest du irgendwo erwähnen, dass eine Berechnung aus Zuständen und Verknüpfung von Werten entsteht.
+
+% Dann hast du alles beisammen.
+
+% War das einigermaßen verständlich?
